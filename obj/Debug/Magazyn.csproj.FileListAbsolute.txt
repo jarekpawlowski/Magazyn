@@ -1,0 +1,11 @@
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\bin\Debug\Magazyn.exe.config
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\bin\Debug\Magazyn.exe
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\bin\Debug\Magazyn.pdb
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.csprojResolveAssemblyReference.cache
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.Form1.resources
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.Properties.Resources.resources
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.csproj.GenerateResource.Cache
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.exe
+c:\users\jarek\documents\visual studio 2015\Projects\Magazyn\Magazyn\obj\Debug\Magazyn.pdb
+C:\Users\jarek\Documents\Visual Studio 2015\Projects\Magazyn\Magazyn\bin\Debug\MySql.Data.dll
+C:\Users\jarek\Documents\Visual Studio 2015\Projects\Magazyn\Magazyn\bin\Debug\MySql.Data.xml
